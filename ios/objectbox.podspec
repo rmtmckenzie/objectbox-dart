@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
   s.license          = 'Apache 2.0, ObjectBox Binary License'
   s.author           = 'ObjectBox'
   s.platform         = :ios, '8.0'
+  s.module_name      = 'objectboxdart'
 
   # Get the ObjectBox.framework from the objectbox-swift release (see README.md)
   s.source = { :path => '.' }

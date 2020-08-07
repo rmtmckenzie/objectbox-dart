@@ -28,3 +28,4 @@ flutter:
         pluginClass: ObjectboxPlugin
       ios:
         pluginClass: ObjectboxPlugin
+        module: objecboxdart
